@@ -99,12 +99,12 @@ npm install
 cd SmartHome-Marketplace/Frontend
 npm start
     </code></pre>
-
   <p><strong>In another terminal:</strong></p>
     <pre><code>
 cd SmartHome-Marketplace/Backend
 npm start
     </code></pre>
-  <li>Access the application in your browser at <code>http://localhost:3000</code>.</li>
+      
+<li>Access the application in your browser at <code>http://localhost:3000</code>.</li>
 </ol>
 

@@ -76,11 +76,11 @@
 <h2>Setup and Installation</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/yourusername/smarthomes.git</code></pre>
+    <pre><code>[git clone https://github.com/yourusername/smarthomes.git](https://github.com/RikGanguli/SmartHome-Marketplace.git)</code></pre>
   </li>
   <li>Navigate to the <strong>Frontend</strong> and <strong>Backend</strong> directories and install dependencies:
     <pre><code>
-cd smarthomes/Frontend
+cd SmartHome-Marketplace/Frontend
 npm install
 cd ../Backend
 npm install
@@ -95,23 +95,13 @@ npm install
   <li>Start both the frontend and backend servers:
     <pre><code>
 # In one terminal:
-cd smarthomes/Frontend
+cd SmartHome-Marketplace/Frontend
 npm start
-
 # In another terminal:
-cd smarthomes/Backend
+cd SmartHome-Marketplace/Backend
 npm start
     </code></pre>
   </li>
   <li>Access the application in your browser at <code>http://localhost:3000</code>.</li>
 </ol>
 
-<h2>Future Enhancements</h2>
-<ul>
-  <li>Add product recommendation feature.</li>
-  <li>Integrate a more advanced payment gateway for secure transactions.</li>
-  <li>Implement dynamic discounts and rebate management.</li>
-</ul>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License.</p>

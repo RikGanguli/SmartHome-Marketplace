@@ -97,6 +97,7 @@ npm install
 # In one terminal:
 cd SmartHome-Marketplace/Frontend
 npm start
+      
 # In another terminal:
 cd SmartHome-Marketplace/Backend
 npm start

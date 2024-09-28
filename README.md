@@ -1,7 +1,7 @@
 # SmartHome-Marketplace
 
-Navigate to Assignment_5/assignment4/
+Navigate to /Frontend
 Run npm start
 
-Navigate to Assignment_5/backend/
+Navigate to /Backend
 Run npm start

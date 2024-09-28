@@ -76,7 +76,7 @@
 <h2>Setup and Installation</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>[git clone https://github.com/yourusername/smarthomes.git](https://github.com/RikGanguli/SmartHome-Marketplace.git)</code></pre>
+    <pre><code>[git clone https://github.com/RikGanguli/SmartHome-Marketplace.git])</code></pre>
   </li>
   <li>Navigate to the <strong>Frontend</strong> and <strong>Backend</strong> directories and install dependencies:
     <pre><code>

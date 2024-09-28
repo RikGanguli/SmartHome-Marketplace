@@ -92,19 +92,16 @@ npm install
       <li>Configure MongoDB for storing product reviews.</li>
     </ul>
   </li>
-  <li>Start both the frontend and backend servers:
+   <li>Start both the frontend and backend servers:
     <pre><code>
-<p><strong>In one terminal:</strong></p>
-    <pre><code>
-cd SmartHome-Marketplace/Frontend
+# In one terminal:
+cd smarthomes/Frontend
+npm start
+# In another terminal:
+cd smarthomes/Backend
 npm start
     </code></pre>
-  <p><strong>In another terminal:</strong></p>
-    <pre><code>
-cd SmartHome-Marketplace/Backend
-npm start
-    </code></pre>
-      
-<li>Access the application in your browser at <code>http://localhost:3000</code>.</li>
+  </li>
+  <li>Access the application in your browser at <code>http://localhost:3000</code>.</li>
 </ol>
 

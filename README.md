@@ -105,3 +105,5 @@ npm start
   <li>Access the application in your browser at <code>http://localhost:3000</code>.</li>
 </ol>
 
+<h2>Credits</h2>
+<p>Developed by Rik Ganguli Biswas</p>
